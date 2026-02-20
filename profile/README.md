@@ -1,8 +1,8 @@
 The **Opener Initiative** hosts DECT-2020-related software projects and is the developer and maintainer of *Opener*, an open reference implementation of the DECT-2020 NR protocol stack, covering the MAC and upper layers.
 We start by hosting stacks, in various forms and states, by the members. The aim is to **work together to make a unified open source stack**. DECT NR+ technology supports many features and use cases, namely 
-- audio streaming with scheduled access in a star network
+- Audio streaming with scheduled access in a star network
 - IoT sensor networks with random access in mesh networks
-Members have started developing stacks for different use cases, picking different features from the standard. *Opener* allows exploration of these different stacks and brings developer together to  combine the efforts, into unified stack developement that will have the, in the ned, all the features for any need.  
+Members have started developing stacks for different use cases, picking different features from the standard. *Opener* allows exploration of these different stacks and brings developer together to  combine the efforts, into unified stack developement that will have the, in the end, all the features for any need.
 
 The following core principles guide the development of *Opener* and shape the project's technical vision:
 
