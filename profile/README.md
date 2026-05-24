@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo_primary_white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="logo_primary_black.svg">
+    <img src="logo_primary_color.svg" width="100%" alt="Opener logo">
+  </picture>
+</p>
+
 The **Opener Initiative** hosts DECT-2020-related software projects and is the developer and maintainer of *Opener*, an open reference implementation of the DECT-2020 NR protocol stack, covering the MAC and upper layers.
 We start by hosting stacks, in various forms and states, by the members. The aim is to **work together to make a unified open-source stack**. DECT NR+ technology supports many features and use cases, namely
 
