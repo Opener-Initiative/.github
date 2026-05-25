@@ -15,7 +15,7 @@ We bring together developers who have started implementing stacks for different 
 The following core principles guide the development of *Opener* and shape the project's technical vision:
 
 1. **Ready for commercial use:** *Opener* not only fosters academic research but is also suitable for integration into demanding commercial products. For this reason, we chose the Apache 2.0 license for the project. Apache 2.0 is a business-friendly, OSI-approved permissive software license with no copyleft provisions that restrict commercial use. In addition to broad usage rights, Apache 2.0 includes an express grant of patent rights from contributors, providing legal protection and peace of mind for adopters.
-2. **Application- and platform-agnostic:** *Opener* addresses the needs of applications across various domains and use cases, ranging from building automation or smart metering to professional audio. At the same time, it is portable across different hardware and software platforms, enabling integration on a wide variety of target systems without being tied to a specific vendor, architecture, or operating system.
+2. **Application- and vendor-agnostic:** *Opener* addresses the needs of applications across various domains and use cases, ranging from building automation or smart metering to professional audio. Built for Zephyr, the RTOS adopted across the DECT-2020 NR integrated hardware ecosystem, *Opener* is not tied to a specific silicon vendor or instruction set architecture.
 3. **Interoperable and standards-compliant:** *Opener* complies with harmonized European norms and targets to pass ETSI-defined conformance tests.
 
 ## What is DECT-2020 NR?
